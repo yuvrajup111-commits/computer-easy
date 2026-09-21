@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuvrajup111-commits.github.io/computer-easy/sitemap.xml
